@@ -1,6 +1,6 @@
-# react-seed-upgraded
+# react-seed-upgraded-antd
 
-Import redux base on [react-seed-simplify](https://github.com/yhhcg/react-seed-simplify)
+Import antd base on [react-seed-upgraded](https://github.com/yhhcg/react-seed-upgraded)
 
 ## Developing
 

@@ -10,7 +10,7 @@
     "build:prod": "webpack --config ./config/webpack.prod.js",
     "doc": "jsdoc src -r"
   },
-  "author": "sunhongya",
+  "author": "qingfeng",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.6.1",
